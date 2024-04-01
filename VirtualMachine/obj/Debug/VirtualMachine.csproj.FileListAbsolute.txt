@@ -1,0 +1,10 @@
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\bin\Debug\VirtualMachine.exe.config
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\bin\Debug\VirtualMachine.exe
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\bin\Debug\VirtualMachine.pdb
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\obj\Debug\VirtualMachine.csproj.AssemblyReference.cache
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\obj\Debug\VirtualMachine.Form1.resources
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\obj\Debug\VirtualMachine.Properties.Resources.resources
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\obj\Debug\VirtualMachine.csproj.GenerateResource.cache
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\obj\Debug\VirtualMachine.csproj.CoreCompileInputs.cache
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\obj\Debug\VirtualMachine.exe
+C:\Users\Prince Louie\source\repos\VirtualMachine\VirtualMachine\obj\Debug\VirtualMachine.pdb
